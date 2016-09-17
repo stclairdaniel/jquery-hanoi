@@ -4,9 +4,9 @@
 
 [link]: https://stclairdaniel.github.io/jquery-hanoi/
 
-Towers of Hanoi is written using JavaScript ES5,jQuery, CSS, and HTMl. It has a sleek, minimalist design.
+Towers of Hanoi is written using JavaScript ES5, jQuery, CSS, and HTML. It has a sleek, minimalist design.
 
-![game](http://i.imgur.com/eYK62Yd.png)
+<img src="http://i.imgur.com/eYK62Yd.png" style="width: 300px;height: auto"/>
 
 ## How To Play
 
